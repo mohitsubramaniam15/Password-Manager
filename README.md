@@ -19,9 +19,13 @@ Welcome to **Mohit's Password Manager**! This unique project combines password m
 ## Results
 <p align="center">
  <img src="img/out.png" alt="Image 1">
-     <img src="img/snake.png" alt="Image 1">
 </p>
 
+---
+
+<p align="center">
+     <img src="img/snake.png" alt="Image 1">
+</p>
 ---
 
 ## 🛠️ Installation & Setup
