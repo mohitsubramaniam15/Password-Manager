@@ -1,4 +1,4 @@
-
+![Banner](img/bann.png)
 # 🔐 Mohit's Password Manager & 🐍 Snake Game
 
 Welcome to **Mohit's Password Manager**! This unique project combines password management with a classic Snake Game challenge for extra security fun! Three wrong attempts, and you’ll need to beat the Snake Game to continue. 🕹️
@@ -14,6 +14,13 @@ Welcome to **Mohit's Password Manager**! This unique project combines password m
 - **Classic Snake Gameplay** built with Pygame.
 - **Dynamic Challenge**: Win to reset your error count and regain access.
 - **Fun and Functionality**: Enjoy a game to unlock access after failed attempts!
+
+---
+## Results
+<p align="center">
+ <img src="img/out.png" alt="Image 1">
+     <img src="img/snake.png" alt="Image 1">
+</p>
 
 ---
 
